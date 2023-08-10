@@ -1,0 +1,39 @@
+body{
+    background-image: url('dim 2.jpg');
+    background-position: 1px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#menu a{
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px;
+}
+h5{
+    font-size: 35px;
+    color: white;
+}
+p{
+    font-size: 25px;
+    color: aliceblue;
+}
+h4{
+    font-size: 35px;
+    color: white;
+}
+ol{
+    font-size: 25px;
+    list-style-type: disc;
+    color: white;
+}
+h4{
+    font-size: 35px;
+    color: white;
+}
+ul{
+    font-size: 25px;
+    list-style-type: disc;
+    color: aliceblue;
+}

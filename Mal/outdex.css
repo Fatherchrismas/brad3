@@ -1,0 +1,47 @@
+body{
+    background-image: url('Nimg2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#menu a{
+    color:black;
+    font-size: 30px;
+    margin: 20px;
+    text-decoration: none;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+label{
+    color: aliceblue;
+}
+
+.demo1{
+    width: 400px;
+    height: 200px;
+    margin-left: 300px;
+}
+form{
+    font-size: 25px;
+}
+.demo,table, th, td {
+ border: 1px solid white;
+ color: aliceblue;
+}
+.demo{
+    color: aliceblue;
+    width: 25px;
+}
+table{
+    color: aliceblue;
+}
+footer{
+    font-size: 20px;
+}
